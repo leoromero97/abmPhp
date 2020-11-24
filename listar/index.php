@@ -10,6 +10,7 @@
 <html>
 	<head>
 		<title>Listado</title>
+		<link rel="stylesheet" type="text/css" href="./syles/style.css">
 <style type="text/css">
 
 
@@ -90,8 +91,8 @@ tbody tr:nth-child(odd) {
 			</center
 		</div>
 		<br>
-<form method="get" action="https://repartear.com/abm2/">
-  <input type="submit" value="Volver" />
+<form method="get" action="https://repartear.com/abmPhp/">
+  <input type="submit" value="Volver" class="button"/>
   </form>
 		</body>
 	</html>	

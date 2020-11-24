@@ -33,7 +33,7 @@ mysqli_close($link);
 ?>
 <br>
 <br>
-<form method="get" action="https://repartear.com/abm2/">
+<form method="get" action="https://repartear.com/abmPhp/">
   <input type="submit" value="Volver" />
   </form>
 

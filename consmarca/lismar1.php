@@ -4,7 +4,11 @@
 <font color="white">
 <body bgcolor=#1D6B89>
 <title>Productos por marca</title>
-<html><head><meta charset="utf-8"> </head>
+<html>
+  <head>
+    <meta charset="utf-8">  
+    <link rel="stylesheet" type="text/css" href="./syles/style.css">
+   </head>
 <body>
 <body>
     <br>
@@ -41,8 +45,8 @@ mysqli_close($link);
 ?>
 <br>
 <br>
-<form method="get" action="https://repartear.com/abm2/">
-  <input type="submit" value="Volver" />
+<form method="get" action="https://repartear.com/abmPhp/">
+  <input type="submit" value="Volver" class="button"/>
   </form>
 
 </body>
