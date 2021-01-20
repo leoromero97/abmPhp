@@ -30,8 +30,6 @@ else
   echo "No existe el producto";
 ?>
 <br>
-<form method="get" action="https://repartear.com/abm2/">
-  <input type="submit" value="Volver" />
-  </form>
+  <a href="https://repartear.com/abmPhp/" class="button">Volver</a>
 </body>
 </html>
